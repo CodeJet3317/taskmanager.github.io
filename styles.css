@@ -2,6 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 20px;
   background: radial-gradient(circle, #f06, #ff1493, #4b0082);
+  background-repeat: no-repeat;
 }
 
 h1 {
